@@ -1,0 +1,6 @@
+working_directory=./
+summer_case = ./Starting_Cases/26HS.pwb
+winter_case = ./Starting_Cases/26HW.pwb
+spring_case = ./Starting_Cases/26LSP.pwb
+summer_to_spring_pct = 64.0
+saved_scaled_cases = True
